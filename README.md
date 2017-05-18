@@ -1,2 +1,2 @@
-# baby-steps
+# Baby-steps
 Early Chapters of programmin'
